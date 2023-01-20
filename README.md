@@ -7,7 +7,7 @@
 ░░░██║░░░███████╗░░░██║░░░██║░░██║██║██████╔╝
 ░░░╚═╝░░░╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝╚═════╝░
 
-<h3> This is porject <a href="https://gregarious-baklava-fc79e6.netlify.app">See Demo Tetris Game Javascript</a> version </h3>
+<h3> This is porject <a href="https://jstetris.netlify.app">See Demo Tetris Game Javascript</a> version </h3>
 
 ### Images
 Tetris Game
